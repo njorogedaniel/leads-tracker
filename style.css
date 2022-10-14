@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    max-width: 400;
+}
+input{
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border : 1px solid blueviolet ;
+}
+button{
+    margin-top: 5px;
+    background-color: blueviolet;
+    border: none;
+    padding: 10px;
+    color: aliceblue;
+
+}
+#delete-btn{
+    border: 1px solid blueviolet;
+    background-color: white;
+    color: blueviolet ;
+}
+ul{
+    list-style: none;
+    padding-left: 0;
+
+}
+li{
+    color: blueviolet;
+}
